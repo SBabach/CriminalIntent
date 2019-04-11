@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Престъпно Намерение</string>
+    <string name="crime_title_hint">Въведете заглавие на престъплението.</string>
+    <string name="crime_title_label">Заглавие</string>
+    <string name="crime_details_label">Детайли</string>
+    <string name="crime_solved_label">Разрешено</string>
+    <string name="crime_title_txt">Заглавие на престъплението</string>
+    <string name="crime_date_txt">Дата на престъплението</string>
+    <string name="crime_requires_police_txt">Изисква полиция</string>
+    <string name="handcuffs_img_desc">Белезници</string>
+    <string name="go_to_first">Отиди на първо</string>
+    <string name="go_to_last">Отиди на последно</string>
+    <string name="date_picker_title">Дата на престъплението:</string>
+    <string name="new_crime">Ново престъпление</string>
+    <string name="delete_crime">Изтрий престъпление</string>
+    <string name="show_subtitle">Покажи текст</string>
+    <string name="hide_subtitle">Скрий текст</string>
+    <string name="crime_suspect_text">Избери заподозрян</string>
+    <string name="crime_report_text">Изпрати отчет</string>
+    <string name="crime_report">%1$s!
+        Престъплението беше открито на %2$s. %3$s, and %4$s
+    </string>
+    <string name="crime_report_solved">случаят е разрешен</string>
+    <string name="crime_report_unsolved">случаят не е разрешен</string>
+    <string name="crime_report_no_suspect">няма заподозрян</string>
+    <string name="crime_report_suspect">заподозреният е %s</string>
+    <string name="crime_report_subject">Отчет за Престъпно Намерение</string>
+    <string name="send_report"> Изпрати отчет чрез </string>
+    <plurals name="subtitle_plural">
+        <item quantity="one">%1$d престъпление</item>
+        <item quantity="other">%1$d престъпления</item>
+    </plurals>
+
+</resources>
